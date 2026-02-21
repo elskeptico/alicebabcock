@@ -1,13 +1,13 @@
 @font-face {
     font-family: "Italianno";
-    src: url('/fonts/italianno.woff');
+    src: url('italianno.woff');
 }
 
 img {
   display: block;
   margin: auto;
   width: 50%;
-  border-radius: 25%;
+  border-radius: 25px;
 }
 
 h1, h2, h3 {
