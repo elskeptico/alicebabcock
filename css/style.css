@@ -3,6 +3,8 @@ img {
   margin: auto;
   width: 50%;
 }
-h3 {
+
+h3, h2, h1 {
     text-align: center;
 }
+
