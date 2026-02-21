@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 112.1 90">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #ebebec;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #525a66;
+      }
+
+      .cls-4 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 24px;
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        fill: #8f9a9f;
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" width="83" height="90"/>
+    </clipPath>
+  </defs>
+  <g class="cls-8">
+    <g>
+      <path class="cls-2" d="M78.6,7.51H4.4c-2.43,0-4.4,1.96-4.4,4.37v73.75c0,2.41,1.97,4.37,4.4,4.37h74.21c2.43,0,4.4-1.96,4.4-4.37V11.88c0-2.41-1.97-4.37-4.4-4.37Z"/>
+      <path class="cls-3" d="M0,29.29V11.88c0-2.4,1.98-4.37,4.4-4.37h74.21c2.42,0,4.4,1.97,4.4,4.37v17.41H0Z"/>
+      <path class="cls-5" d="M18.65,16.27c1.9,0,3.43-1.53,3.43-3.41s-1.54-3.41-3.43-3.41-3.43,1.53-3.43,3.41,1.54,3.41,3.43,3.41Z"/>
+      <path class="cls-5" d="M64.03,16.27c1.9,0,3.43-1.53,3.43-3.41s-1.54-3.41-3.43-3.41-3.43,1.53-3.43,3.41,1.54,3.41,3.43,3.41Z"/>
+      <path class="cls-7" d="M18.66,0h0c-1.39,0-2.51,1.12-2.51,2.5v10.47c0,1.38,1.13,2.5,2.51,2.5h0c1.39,0,2.52-1.12,2.52-2.5V2.5c0-1.38-1.13-2.5-2.52-2.5Z"/>
+      <path class="cls-7" d="M64.04,0h0c-1.39,0-2.52,1.12-2.52,2.5v10.47c0,1.38,1.13,2.5,2.52,2.5h0c1.39,0,2.51-1.12,2.51-2.5V2.5c0-1.38-1.13-2.5-2.51-2.5Z"/>
+    </g>
+  </g>
+  <text class="cls-4" transform="translate(15.95 49.9)"><tspan class="cls-6" x="0" y="0">M</tspan><tspan x="19.06" y="0">AR</tspan></text>
+  <text class="cls-4" transform="translate(35.1 77.5)"><tspan x="0" y="0">8</tspan></text>
+</svg>
