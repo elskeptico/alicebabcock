@@ -1,6 +1,20 @@
+@font-face {
+    font-family: "Italianno";
+    src: url('/fonts/italianno.ttf') format('truetype');
+}
+
 img {
   display: block;
   margin: auto;
   width: 50%;
 }
 
+h1, h2, h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.name {
+    font-family: Italliano;
+}
