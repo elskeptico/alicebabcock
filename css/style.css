@@ -9,7 +9,7 @@ img.headshot {
   width: 50%;
 }
 
-h1, h2, h5 {
+h1, h2, h5, .exception {
   display: flex;
   justify-content: center;
   align-items: center;
