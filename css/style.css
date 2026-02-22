@@ -6,7 +6,7 @@ img {
   border-radius: 25px;
 }
 
-h1, h2, h3 {
+h1, h2, h5 {
   display: flex;
   justify-content: center;
   align-items: center;
