@@ -1,7 +1,3 @@
-html {
-    background: linear-gradient(to top right, #FCC201, white);
-}
-
 img.headshot {
   border: 3px solid #FCC201;
   border-radius: 25px;
@@ -20,4 +16,8 @@ h1, h2, h5, .exception {
   font-family: "Baskerville", "Georgia", serif;
   font-weight: 400;
   font-style: italic;
+}
+
+.notanexception {
+    float: left;
 }
