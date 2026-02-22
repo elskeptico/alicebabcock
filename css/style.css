@@ -1,9 +1,12 @@
 
-img {
+
+
+img.headshot {
+  border: 3px solid #FCC201;
+  border-radius: 25px;
   display: block;
   margin: auto;
   width: 50%;
-  border-radius: 25px;
 }
 
 h1, h2, h5 {
