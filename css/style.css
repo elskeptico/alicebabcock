@@ -21,3 +21,7 @@ h1, h2, h5, .exception {
 .notanexception {
     float: left;
 }
+
+p.maybeexception {
+    float: right;
+}
