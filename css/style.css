@@ -20,6 +20,7 @@ h1, h2, h5, .exception {
 
 .notanexception {
     float: left;
+    align-items: center;
 }
 
 p.maybeexception {
